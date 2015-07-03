@@ -740,4 +740,3 @@ In this guide, you've learned how to manage Azure Storage with Azure PowerShell.
 [How to manage Shared Access Signature (SAS) and Stored Access Policy]: #sas
 [How to use Azure Storage for U.S. government and Azure China]: #gov
 [Next Steps]: #next
- 
